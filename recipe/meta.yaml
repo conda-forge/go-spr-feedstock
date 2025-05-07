@@ -1,4 +1,4 @@
-{% set version = "0.15.0" %}
+{% set version = "0.15.1" %}
 
 package:
   name: go-spr
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/ejoffe/spr/archive/v{{ version }}.tar.gz
-  sha256: 0cc0df7f18ea5f5ceed50ac5d9f76622315a69f06473e40673aaa09c9e4f4cb3
+  sha256: 6108ffe852f3eb62053f87a6a61d20f383fe10f4442396d6730e7f3c534c3f16
 
 build:
   number: 0
