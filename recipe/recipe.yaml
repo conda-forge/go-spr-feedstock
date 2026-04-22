@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.17.5"
+  version: "0.17.6"
 
 package:
   name: go-spr
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/ejoffe/spr/archive/v${{ version }}.tar.gz
-  sha256: 0cd6a6ff24666ddfe09ba1b830232465da5eb8014b0cb7992c34a44e25f7cc18
+  sha256: ac3f4dfd3d44de631605017a2baa05257e7c640d04ea77eefec27bf2bdbe88e4
 
 build:
   number: 0
